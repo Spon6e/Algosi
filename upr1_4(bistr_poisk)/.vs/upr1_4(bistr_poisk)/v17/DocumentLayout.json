@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\79123\\OneDrive\\Desktop\\Algoritmi\\upr1_4(bistr_poisk)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63FCAA85-B525-4774-AA7A-D0B054FCB834}|upr1_4(bistr_poisk).vcxproj|C:\\Users\\79123\\OneDrive\\Desktop\\Algoritmi\\upr1_4(bistr_poisk)\\upr1_4(bistr_poisk).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63FCAA85-B525-4774-AA7A-D0B054FCB834}|upr1_4(bistr_poisk).vcxproj|solutionrelative:upr1_4(bistr_poisk).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "upr1_4(bistr_poisk).cpp",
+              "DocumentMoniker": "C:\\Users\\79123\\OneDrive\\Desktop\\Algoritmi\\upr1_4(bistr_poisk)\\upr1_4(bistr_poisk).cpp",
+              "RelativeDocumentMoniker": "upr1_4(bistr_poisk).cpp",
+              "ToolTip": "C:\\Users\\79123\\OneDrive\\Desktop\\Algoritmi\\upr1_4(bistr_poisk)\\upr1_4(bistr_poisk).cpp",
+              "RelativeToolTip": "upr1_4(bistr_poisk).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-04T16:00:19.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
